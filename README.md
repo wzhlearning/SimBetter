@@ -1,3 +1,3 @@
 # SimBetter
 
-The code will be published in this repository when our paper is accepted.
+We are currently organizing our code, including data processing, model, training, and evaluation.
